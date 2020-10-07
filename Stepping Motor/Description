@@ -1,0 +1,6 @@
+Includes different files/demos of the stepping motor.
+Control over speed and direction 
+
+Stepping Motor: Turns every 200 steps clockwise and counterclockwise
+Stepping Motor 360: Turns 360 degrees clockwise and counterclockwise 
+Stepping Motor Rotating: Continuosly rotates in one direction 
