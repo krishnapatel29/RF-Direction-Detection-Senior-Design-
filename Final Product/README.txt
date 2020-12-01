@@ -1,4 +1,3 @@
-README
 The following file will explain how to install and use the RF Direction Detection system.  
 
 Stepping Motor Directions:
