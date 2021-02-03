@@ -1,5 +1,5 @@
 # RF-Direction-Detection-Senior-Design-
-RF Direction of Arrival Detection System. To build a system that detects the direction of arrival of RF signals. 
+To build a system that detects and tracks illegal drones in the chosen frequency using a system including radios and a directional antenna. 
 
 
 
